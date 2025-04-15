@@ -127,6 +127,9 @@
         <mxCell id="NAeZeJYSQ5_PzMQJ3D73-44" value="农产品全流程信息查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="340" width="40" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="NAeZeJYSQ5_PzMQJ3D73-46" value="零售商端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

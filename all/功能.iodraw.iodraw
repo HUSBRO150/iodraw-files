@@ -124,7 +124,7 @@
         <mxCell id="NAeZeJYSQ5_PzMQJ3D73-49" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NAeZeJYSQ5_PzMQJ3D73-23" target="NAeZeJYSQ5_PzMQJ3D73-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NAeZeJYSQ5_PzMQJ3D73-23" value="基于Arweave的农产品溯源系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NAeZeJYSQ5_PzMQJ3D73-23" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;基于Arweave的农产品溯源系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="615" y="140" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NAeZeJYSQ5_PzMQJ3D73-44" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;农产品全流程信息查看&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -133,7 +133,7 @@
         <mxCell id="NAeZeJYSQ5_PzMQJ3D73-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NAeZeJYSQ5_PzMQJ3D73-46" target="NAeZeJYSQ5_PzMQJ3D73-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NAeZeJYSQ5_PzMQJ3D73-46" value="消费者" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NAeZeJYSQ5_PzMQJ3D73-46" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;消费者&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1110" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NAeZeJYSQ5_PzMQJ3D73-47" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;农产品全流程信息查看&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">

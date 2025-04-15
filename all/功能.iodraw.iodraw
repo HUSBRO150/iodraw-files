@@ -26,16 +26,16 @@
           <mxGeometry x="120" y="340" width="40" height="190" as="geometry" />
         </mxCell>
         <mxCell id="NAeZeJYSQ5_PzMQJ3D73-6" value="收货时间上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="340" width="40" height="190" as="geometry" />
+          <mxGeometry x="342" y="340" width="40" height="190" as="geometry" />
         </mxCell>
         <mxCell id="NAeZeJYSQ5_PzMQJ3D73-7" value="加工信息上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="340" width="40" height="190" as="geometry" />
+          <mxGeometry x="402" y="340" width="40" height="190" as="geometry" />
         </mxCell>
         <mxCell id="NAeZeJYSQ5_PzMQJ3D73-8" value="入库时间上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="340" width="40" height="190" as="geometry" />
+          <mxGeometry x="462" y="340" width="40" height="190" as="geometry" />
         </mxCell>
         <mxCell id="NAeZeJYSQ5_PzMQJ3D73-9" value="出库时间上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="340" width="40" height="190" as="geometry" />
+          <mxGeometry x="522" y="340" width="40" height="190" as="geometry" />
         </mxCell>
         <mxCell id="NAeZeJYSQ5_PzMQJ3D73-10" value="入库时间上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="340" width="40" height="190" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="763" y="340" width="40" height="190" as="geometry" />
         </mxCell>
         <mxCell id="NAeZeJYSQ5_PzMQJ3D73-19" value="农产品全流程信息查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="340" width="40" height="190" as="geometry" />
+          <mxGeometry x="582" y="340" width="40" height="190" as="geometry" />
         </mxCell>
         <mxCell id="NAeZeJYSQ5_PzMQJ3D73-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAeZeJYSQ5_PzMQJ3D73-20" target="NAeZeJYSQ5_PzMQJ3D73-6">
           <mxGeometry relative="1" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NAeZeJYSQ5_PzMQJ3D73-20" value="加工厂端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="422" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NAeZeJYSQ5_PzMQJ3D73-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NAeZeJYSQ5_PzMQJ3D73-21" target="NAeZeJYSQ5_PzMQJ3D73-17">
           <mxGeometry relative="1" as="geometry" />

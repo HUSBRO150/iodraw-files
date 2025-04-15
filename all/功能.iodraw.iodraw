@@ -49,7 +49,7 @@
         <mxCell id="NAeZeJYSQ5_PzMQJ3D73-13" value="出库时间上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="340" width="40" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="NAeZeJYSQ5_PzMQJ3D73-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NAeZeJYSQ5_PzMQJ3D73-15" value="农产品全流程信息查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="340" width="40" height="190" as="geometry" />
         </mxCell>
         <mxCell id="NAeZeJYSQ5_PzMQJ3D73-16" value="售出时间上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="NAeZeJYSQ5_PzMQJ3D73-23" value="基于Arweave的农产品溯源系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="140" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NAeZeJYSQ5_PzMQJ3D73-44" value="农产品全流程信息查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="350" width="40" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

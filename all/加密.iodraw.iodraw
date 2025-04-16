@@ -58,6 +58,9 @@
         <mxCell id="dzs0ch56CinA1GKXlJLL-29" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;1、生成临时RSA密钥对(frontPublickey/frontPrivatekey)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;2、生成随机AES密钥(aeskey)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;3、用afterPublicKey加密aeskey → aeskeyByRsa&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;4、用aesKey加密请求数据→encryptedData&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=default;strokeColor=#36393d;gradientColor=none;dashed=1;rounded=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="-120" y="360" width="490" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="dzs0ch56CinA1GKXlJLL-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="545" y="658" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

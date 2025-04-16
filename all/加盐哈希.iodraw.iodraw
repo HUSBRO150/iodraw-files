@@ -44,6 +44,9 @@
         <mxCell id="r11XTDSoxNuoIIQIDXap-20" value="密码哈希2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=34;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="760" y="312.5" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="r11XTDSoxNuoIIQIDXap-21" value="密码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=34;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

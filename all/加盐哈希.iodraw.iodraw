@@ -22,7 +22,7 @@
         <mxCell id="r11XTDSoxNuoIIQIDXap-9" value="密码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="175" y="328" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r11XTDSoxNuoIIQIDXap-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r11XTDSoxNuoIIQIDXap-10" value="哈希" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="313" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

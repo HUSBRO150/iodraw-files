@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r11XTDSoxNuoIIQIDXap-14" value="密码哈希1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=34;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="250" y="340" width="85" height="35" as="geometry" />
+          <mxGeometry x="270" y="340" width="85" height="35" as="geometry" />
         </mxCell>
         <mxCell id="r11XTDSoxNuoIIQIDXap-18" value="盐值" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=34;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="760" y="345" width="90" height="30" as="geometry" />

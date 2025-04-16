@@ -72,8 +72,8 @@
             <mxPoint x="-27" y="-38" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dzs0ch56CinA1GKXlJLL-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="85" y="848" width="50" height="30" as="geometry" />
+        <mxCell id="dzs0ch56CinA1GKXlJLL-34" value="用前端私钥解密enContractKey" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="15" y="848" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

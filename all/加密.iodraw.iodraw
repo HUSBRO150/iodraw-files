@@ -67,10 +67,13 @@
             <mxPoint x="100" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dzs0ch56CinA1GKXlJLL-33" value="enContractKey" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;glass=0;dashed=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="dzs0ch56CinA1GKXlJLL-31">
-          <mxGeometry x="0.2622" y="3" width="100" height="30" relative="1" as="geometry">
-            <mxPoint x="-2" y="-33" as="offset" />
+        <mxCell id="dzs0ch56CinA1GKXlJLL-33" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;enContractKey&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;glass=0;dashed=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="dzs0ch56CinA1GKXlJLL-31">
+          <mxGeometry x="0.2622" y="3" width="150" height="40" relative="1" as="geometry">
+            <mxPoint x="-27" y="-38" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dzs0ch56CinA1GKXlJLL-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="85" y="848" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -19,8 +19,18 @@
         <mxCell id="r11XTDSoxNuoIIQIDXap-12" value="密码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=34;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="140" y="350" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="r11XTDSoxNuoIIQIDXap-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r11XTDSoxNuoIIQIDXap-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="303" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="r11XTDSoxNuoIIQIDXap-13" value="用户名" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=34;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="275" width="90" height="30" as="geometry" />
+          <mxGeometry x="140" y="288" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r11XTDSoxNuoIIQIDXap-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r11XTDSoxNuoIIQIDXap-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="365" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="r11XTDSoxNuoIIQIDXap-14" value="哈希" style="whiteSpace=wrap;html=1;rounded=1;arcSize=34;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="250" y="347.5" width="85" height="35" as="geometry" />

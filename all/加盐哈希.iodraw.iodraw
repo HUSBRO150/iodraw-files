@@ -35,6 +35,9 @@
         <mxCell id="r11XTDSoxNuoIIQIDXap-14" value="哈希" style="whiteSpace=wrap;html=1;rounded=1;arcSize=34;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="250" y="340" width="85" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="r11XTDSoxNuoIIQIDXap-18" value="密码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=34;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="760" y="348" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -17,7 +17,7 @@
           <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dzs0ch56CinA1GKXlJLL-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;前端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dzs0ch56CinA1GKXlJLL-5" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;后端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="960" width="120" height="60" as="geometry" />
@@ -63,8 +63,8 @@
         </mxCell>
         <mxCell id="dzs0ch56CinA1GKXlJLL-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="600" as="sourcePoint" />
-            <mxPoint x="100" y="600" as="targetPoint" />
+            <mxPoint x="620" y="610" as="sourcePoint" />
+            <mxPoint x="100" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dzs0ch56CinA1GKXlJLL-33" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;enContractKey&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;glass=0;dashed=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;autosize=1;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="dzs0ch56CinA1GKXlJLL-31">
@@ -73,7 +73,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dzs0ch56CinA1GKXlJLL-34" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;用前端私钥解密enContractKey→ContractKey&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="620" width="410" height="40" as="geometry" />
+          <mxGeometry x="40" y="630" width="410" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dzs0ch56CinA1GKXlJLL-36" value="用合约密钥(ContractKey)加密合约数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=default;fontFamily=Helvetica;fontSize=19;fontColor=default;dashed=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="690" width="350" height="40" as="geometry" />

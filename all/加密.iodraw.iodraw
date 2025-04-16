@@ -90,13 +90,24 @@
         </mxCell>
         <mxCell id="dzs0ch56CinA1GKXlJLL-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="250" as="sourcePoint" />
-            <mxPoint x="630" y="250" as="targetPoint" />
+            <mxPoint x="100" y="680" as="sourcePoint" />
+            <mxPoint x="620" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dzs0ch56CinA1GKXlJLL-21" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;登录请求&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dzs0ch56CinA1GKXlJLL-20">
           <mxGeometry x="-0.0628" y="3" relative="1" as="geometry">
             <mxPoint x="-4" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzs0ch56CinA1GKXlJLL-22" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="370" as="sourcePoint" />
+            <mxPoint x="110" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="370" />
+              <mxPoint x="150" y="370" />
+              <mxPoint x="150" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>

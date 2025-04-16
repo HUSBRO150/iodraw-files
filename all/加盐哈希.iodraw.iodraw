@@ -113,10 +113,10 @@
           <mxGeometry x="770" y="497" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r11XTDSoxNuoIIQIDXap-66" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;密码哈希1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=34;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="502" y="510" width="90" height="30" as="geometry" />
+          <mxGeometry x="504" y="510" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r11XTDSoxNuoIIQIDXap-70" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;随机盐值&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=34;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="502" y="555" width="90" height="30" as="geometry" />
+          <mxGeometry x="504" y="550" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

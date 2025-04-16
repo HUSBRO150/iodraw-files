@@ -4,14 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r11XTDSoxNuoIIQIDXap-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;flipH=1;" vertex="1" parent="1">
+        <mxCell id="r11XTDSoxNuoIIQIDXap-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="270" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="r11XTDSoxNuoIIQIDXap-5" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.web_server;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="265" width="105" height="105" as="geometry" />
+        <mxCell id="r11XTDSoxNuoIIQIDXap-5" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.web_server;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="r11XTDSoxNuoIIQIDXap-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="285" width="100" height="70" as="geometry" />
+        <mxCell id="r11XTDSoxNuoIIQIDXap-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

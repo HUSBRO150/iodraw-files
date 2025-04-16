@@ -101,12 +101,12 @@
         </mxCell>
         <mxCell id="dzs0ch56CinA1GKXlJLL-22" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="370" as="sourcePoint" />
-            <mxPoint x="110" y="410" as="targetPoint" />
+            <mxPoint x="540" y="720" as="sourcePoint" />
+            <mxPoint x="540" y="760" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="110" y="370" />
-              <mxPoint x="150" y="370" />
-              <mxPoint x="150" y="410" />
+              <mxPoint x="540" y="720" />
+              <mxPoint x="580" y="720" />
+              <mxPoint x="580" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>

@@ -76,7 +76,7 @@
           <mxGeometry x="40" y="790" width="410" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dzs0ch56CinA1GKXlJLL-36" value="用合约密钥(ContractKey)加密合约数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=default;fontFamily=Helvetica;fontSize=19;fontColor=default;dashed=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="890" width="350" height="40" as="geometry" />
+          <mxGeometry x="40" y="870" width="350" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

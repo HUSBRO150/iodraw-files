@@ -73,10 +73,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dzs0ch56CinA1GKXlJLL-34" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;用前端私钥解密enContractKey→ContractKey&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="790" width="410" height="40" as="geometry" />
+          <mxGeometry x="40" y="780" width="410" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dzs0ch56CinA1GKXlJLL-36" value="用合约密钥(ContractKey)加密合约数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=default;fontFamily=Helvetica;fontSize=19;fontColor=default;dashed=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="870" width="350" height="40" as="geometry" />
+          <mxGeometry x="40" y="880" width="350" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

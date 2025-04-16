@@ -75,9 +75,6 @@
         <mxCell id="dzs0ch56CinA1GKXlJLL-34" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;用前端私钥解密enContractKey→ContractKey&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="790" width="410" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dzs0ch56CinA1GKXlJLL-35" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="105" y="878" width="50" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

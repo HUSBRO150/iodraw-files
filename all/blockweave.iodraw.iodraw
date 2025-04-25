@@ -56,14 +56,14 @@
         </mxCell>
         <mxCell id="mON1Vz4J9vyf8kfJixCz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="408" y="370" as="targetPoint" />
-            <mxPoint x="362" y="369.5" as="sourcePoint" />
+            <mxPoint x="526" y="360" as="targetPoint" />
+            <mxPoint x="480" y="359.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mON1Vz4J9vyf8kfJixCz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="418" y="380" as="targetPoint" />
-            <mxPoint x="372" y="379.5" as="sourcePoint" />
+            <mxPoint x="640" y="360" as="targetPoint" />
+            <mxPoint x="594" y="359.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>

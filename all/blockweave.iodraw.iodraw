@@ -51,6 +51,21 @@
         <mxCell id="mON1Vz4J9vyf8kfJixCz-16" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;......&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="530" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="mON1Vz4J9vyf8kfJixCz-17" value="Block" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mON1Vz4J9vyf8kfJixCz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="408" y="370" as="targetPoint" />
+            <mxPoint x="362" y="369.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mON1Vz4J9vyf8kfJixCz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="418" y="380" as="targetPoint" />
+            <mxPoint x="372" y="379.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

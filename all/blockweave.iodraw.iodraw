@@ -10,7 +10,7 @@
         <mxCell id="mON1Vz4J9vyf8kfJixCz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mON1Vz4J9vyf8kfJixCz-2" target="mON1Vz4J9vyf8kfJixCz-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mON1Vz4J9vyf8kfJixCz-2" value="Block" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mON1Vz4J9vyf8kfJixCz-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Block&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mON1Vz4J9vyf8kfJixCz-7" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;......&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="mON1Vz4J9vyf8kfJixCz-16" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;......&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="340" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mON1Vz4J9vyf8kfJixCz-17" value="&lt;div&gt;Recall&lt;/div&gt;Block" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mON1Vz4J9vyf8kfJixCz-17" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Recall&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Block&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mON1Vz4J9vyf8kfJixCz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">

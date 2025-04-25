@@ -111,7 +111,7 @@
         <mxCell id="mON1Vz4J9vyf8kfJixCz-32" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;指向前一区块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="970" y="460" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mON1Vz4J9vyf8kfJixCz-33" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;指向前一区块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="mON1Vz4J9vyf8kfJixCz-33" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;指向召回区块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="970" y="503" width="110" height="30" as="geometry" />
         </mxCell>
       </root>

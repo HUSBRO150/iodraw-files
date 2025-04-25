@@ -27,8 +27,14 @@
             <mxPoint x="344" y="359.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mON1Vz4J9vyf8kfJixCz-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mON1Vz4J9vyf8kfJixCz-9" target="mON1Vz4J9vyf8kfJixCz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mON1Vz4J9vyf8kfJixCz-9" value="Block" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mON1Vz4J9vyf8kfJixCz-10" value="Block" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

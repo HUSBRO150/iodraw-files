@@ -34,10 +34,10 @@
         <mxCell id="Qlm2t5OJUbTb73MDCua--7" value="hash1&lt;div&gt;hash(data1)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qlm2t5OJUbTb73MDCua--9" value="hash2&lt;div&gt;(data2)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Qlm2t5OJUbTb73MDCua--9" value="hash2&lt;div&gt;hash(data2)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qlm2t5OJUbTb73MDCua--11" value="hash3" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Qlm2t5OJUbTb73MDCua--11" value="hash3&lt;div&gt;hash(data3)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

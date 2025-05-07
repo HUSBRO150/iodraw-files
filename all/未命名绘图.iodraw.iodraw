@@ -50,8 +50,8 @@
         <mxCell id="71haY798UMVW2TRr-SoC-12" value="密钥源&lt;div&gt;接收到的密钥k&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="71haY798UMVW2TRr-SoC-15" value="密码分析者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="71haY798UMVW2TRr-SoC-15" value="密码分析者" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="420" y="430" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="71haY798UMVW2TRr-SoC-18" value="安全的通信信道" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="540" width="110" height="30" as="geometry" />

@@ -67,8 +67,8 @@
             <mxPoint x="179" y="-145" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="71haY798UMVW2TRr-SoC-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="318" width="50" height="30" as="geometry" />
+        <mxCell id="71haY798UMVW2TRr-SoC-21" value="不安全的通信信道" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="330" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

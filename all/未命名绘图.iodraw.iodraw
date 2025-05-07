@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="71haY798UMVW2TRr-SoC-8" value="信宿m" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="720" y="335" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="340" width="120" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="71haY798UMVW2TRr-SoC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="71haY798UMVW2TRr-SoC-10" target="71haY798UMVW2TRr-SoC-4">
           <mxGeometry relative="1" as="geometry" />

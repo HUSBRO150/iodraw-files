@@ -10,7 +10,7 @@
         <mxCell id="71haY798UMVW2TRr-SoC-1" value="信源m" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="71haY798UMVW2TRr-SoC-4" value="加密器&lt;span style=&quot;color: rgb(30, 32, 34); font-family: Poppins, Helvetica, Arial, sans-serif; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;box-sizing: border-box; font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; color: rgb(232, 62, 140); word-break: break-word; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;language-plaintext highlighter-rouge&quot;&gt;$$\sqrt{3×-1}+(1+x)^2$$&lt;/code&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="71haY798UMVW2TRr-SoC-4" value="&lt;span style=&quot;color: rgb(232, 62, 140); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;LaTeX \(\sqrt{3×-1}+(1+x)^2\) and AsciiMath `a^b + b^2 = c^2`&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="345" width="320" height="70" as="geometry" />
         </mxCell>
       </root>

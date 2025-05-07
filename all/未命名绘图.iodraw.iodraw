@@ -65,10 +65,13 @@
           <mxGeometry x="420" y="318" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="71haY798UMVW2TRr-SoC-22" value="c" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="475" y="387" width="30" height="30" as="geometry" />
+          <mxGeometry x="477" y="380" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="71haY798UMVW2TRr-SoC-23" value="c" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="465" y="335" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="71haY798UMVW2TRr-SoC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.504;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="71haY798UMVW2TRr-SoC-15" target="71haY798UMVW2TRr-SoC-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -7,7 +7,7 @@
         <mxCell id="71haY798UMVW2TRr-SoC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="71haY798UMVW2TRr-SoC-1" target="71haY798UMVW2TRr-SoC-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="71haY798UMVW2TRr-SoC-1" value="信源m" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="71haY798UMVW2TRr-SoC-1" value="信源m" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="150" y="335" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="71haY798UMVW2TRr-SoC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="71haY798UMVW2TRr-SoC-4" target="71haY798UMVW2TRr-SoC-6">
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="71haY798UMVW2TRr-SoC-12" value="密钥源&lt;div&gt;接收到的密钥k&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71haY798UMVW2TRr-SoC-15" value="信源m" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -47,14 +47,14 @@
         <mxCell id="dF17asJOFgWwn4ZtD91Y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dF17asJOFgWwn4ZtD91Y-14" target="dF17asJOFgWwn4ZtD91Y-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dF17asJOFgWwn4ZtD91Y-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;密钥源&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;接收到的密钥k&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dF17asJOFgWwn4ZtD91Y-14" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;密钥&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="503" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dF17asJOFgWwn4ZtD91Y-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;密码分析者&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="420" y="418" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dF17asJOFgWwn4ZtD91Y-16" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;安全的通信信道&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="415" y="498" width="130" height="30" as="geometry" />
+        <mxCell id="dF17asJOFgWwn4ZtD91Y-16" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;密钥对&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="498" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dF17asJOFgWwn4ZtD91Y-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;k&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="460.0033333333335" y="612" as="geometry">

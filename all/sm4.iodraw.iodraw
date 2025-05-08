@@ -238,10 +238,10 @@
         <mxCell id="Q6IcJYU-Ym1DBTH2jnZB-68" value="Y&lt;sub&gt;0&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="533" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Q6IcJYU-Ym1DBTH2jnZB-69" value="X&lt;span style=&quot;font-size: 6.94444px;&quot;&gt;&lt;sub&gt;33&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Q6IcJYU-Ym1DBTH2jnZB-69" value="Y&lt;sub&gt;0&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="533" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Q6IcJYU-Ym1DBTH2jnZB-70" value="X&lt;span style=&quot;font-size: 6.94444px;&quot;&gt;&lt;sub&gt;34&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Q6IcJYU-Ym1DBTH2jnZB-70" value="Y&lt;sub&gt;3&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="533" width="20" height="20" as="geometry" />
         </mxCell>
       </root>

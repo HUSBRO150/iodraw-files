@@ -30,8 +30,8 @@
         </mxCell>
         <mxCell id="jgi4idWvE0UHMF_ctABM-13" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;elbow=vertical;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="100" relative="1" as="geometry">
-            <mxPoint x="260" y="340" as="sourcePoint" />
-            <mxPoint x="310" y="240" as="targetPoint" />
+            <mxPoint x="290.8" y="430" as="sourcePoint" />
+            <mxPoint x="340.8" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

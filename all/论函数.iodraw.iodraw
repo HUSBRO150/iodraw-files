@@ -16,8 +16,8 @@
         <mxCell id="jgi4idWvE0UHMF_ctABM-2" value="X&lt;sub&gt;i&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="85" y="250" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jgi4idWvE0UHMF_ctABM-3" value="X&lt;sub&gt;i&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="250" width="30" height="30" as="geometry" />
+        <mxCell id="jgi4idWvE0UHMF_ctABM-3" value="X&lt;sub&gt;i+1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jgi4idWvE0UHMF_ctABM-4" value="X&lt;sub&gt;i&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="250" width="30" height="30" as="geometry" />

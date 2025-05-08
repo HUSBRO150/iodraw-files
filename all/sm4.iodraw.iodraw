@@ -13,7 +13,7 @@
         <mxCell id="Q6IcJYU-Ym1DBTH2jnZB-3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="80" y="210" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q6IcJYU-Ym1DBTH2jnZB-4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="Q6IcJYU-Ym1DBTH2jnZB-4" value="轮函数" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q6IcJYU-Ym1DBTH2jnZB-5" value="第1轮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="Q6IcJYU-Ym1DBTH2jnZB-7" value="第32轮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="370" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Q6IcJYU-Ym1DBTH2jnZB-8" value="第一轮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

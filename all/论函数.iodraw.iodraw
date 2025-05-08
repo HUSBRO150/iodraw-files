@@ -8,10 +8,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W16WGew6m1uuNK7OT_I8-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;\( \oplus \)&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="80" y="320" width="50" height="50" as="geometry" />
+          <mxGeometry x="80" y="320" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W16WGew6m1uuNK7OT_I8-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;T&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="151" y="295" width="30" height="105" as="geometry" />
+          <mxGeometry x="151" y="280" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jgi4idWvE0UHMF_ctABM-1" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;\( \oplus \)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="295" width="30" height="105" as="geometry" />

@@ -28,10 +28,10 @@
         <mxCell id="jgi4idWvE0UHMF_ctABM-5" value="X&lt;sub&gt;i+3&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="250" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jgi4idWvE0UHMF_ctABM-12" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="230" y="340" as="sourcePoint" />
-            <mxPoint x="330" y="240" as="targetPoint" />
+        <mxCell id="jgi4idWvE0UHMF_ctABM-13" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;elbow=vertical;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="100" relative="1" as="geometry">
+            <mxPoint x="260" y="340" as="sourcePoint" />
+            <mxPoint x="310" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

@@ -31,31 +31,16 @@
             <mxPoint x="108.35000000000002" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q6IcJYU-Ym1DBTH2jnZB-14" value="X&lt;sub&gt;0&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q6IcJYU-Ym1DBTH2jnZB-10">
-          <mxGeometry x="-0.119" relative="1" as="geometry">
-            <mxPoint x="1" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Q6IcJYU-Ym1DBTH2jnZB-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.189;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="82" as="sourcePoint" />
             <mxPoint x="140" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q6IcJYU-Ym1DBTH2jnZB-15" value="X&lt;sub&gt;1&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q6IcJYU-Ym1DBTH2jnZB-11">
-          <mxGeometry x="-0.1922" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Q6IcJYU-Ym1DBTH2jnZB-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.189;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="82" as="sourcePoint" />
             <mxPoint x="170" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q6IcJYU-Ym1DBTH2jnZB-16" value="X&lt;sub&gt;2&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q6IcJYU-Ym1DBTH2jnZB-12">
-          <mxGeometry x="-0.2166" relative="1" as="geometry">
-            <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q6IcJYU-Ym1DBTH2jnZB-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.189;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">

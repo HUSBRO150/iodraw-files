@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xxotz9iEylJdtkwGT_Kb-2" value="Action 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="355" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="355" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xxotz9iEylJdtkwGT_Kb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xxotz9iEylJdtkwGT_Kb-1" target="xxotz9iEylJdtkwGT_Kb-2">
           <mxGeometry relative="1" as="geometry" />
@@ -20,13 +20,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xxotz9iEylJdtkwGT_Kb-4" value="Action 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="355" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="355" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xxotz9iEylJdtkwGT_Kb-6" value="Action 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="355" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xxotz9iEylJdtkwGT_Kb-9" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

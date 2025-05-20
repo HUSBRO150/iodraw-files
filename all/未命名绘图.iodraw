@@ -19,7 +19,10 @@
         <mxCell id="NqdQc3b-onMcShHKX43E-6" value="农场" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NqdQc3b-onMcShHKX43E-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NqdQc3b-onMcShHKX43E-7" value="添加商品" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NqdQc3b-onMcShHKX43E-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="470" width="60" height="30" as="geometry" />
         </mxCell>
       </root>

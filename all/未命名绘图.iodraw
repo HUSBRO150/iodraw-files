@@ -23,10 +23,10 @@
           <mxGeometry x="310" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NqdQc3b-onMcShHKX43E-8" value="产品入库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="490" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NqdQc3b-onMcShHKX43E-9" value="产品出库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="650" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="630" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

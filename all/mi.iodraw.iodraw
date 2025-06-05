@@ -81,9 +81,12 @@
         </mxCell>
         <mxCell id="xCqoYccyXAn2fFv5NbG3-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="320" as="sourcePoint" />
-            <mxPoint x="450" y="320" as="targetPoint" />
+            <mxPoint x="468" y="304.86" as="sourcePoint" />
+            <mxPoint x="408" y="304.86" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xCqoYccyXAn2fFv5NbG3-20" value="固定参数CK&lt;sub&gt;i&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="288" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

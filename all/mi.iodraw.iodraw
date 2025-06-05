@@ -259,7 +259,10 @@
           <mxGeometry x="250" y="240" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fzBmB18DMcmk8DF_21Lt-6" value="32bit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="393" y="410" width="50" height="30" as="geometry" />
+          <mxGeometry x="393" y="406" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fzBmB18DMcmk8DF_21Lt-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="488" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

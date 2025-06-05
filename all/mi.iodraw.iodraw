@@ -55,9 +55,6 @@
             <mxPoint x="399.9" y="333" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xCqoYccyXAn2fFv5NbG3-13" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="340" y="332" width="120" height="22" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

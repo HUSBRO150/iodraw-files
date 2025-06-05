@@ -60,7 +60,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A3nQMff8ujwONAHbKA7q-16" value="X&lt;sub&gt;i&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="125" y="254" width="30" height="30" as="geometry" />
+          <mxGeometry x="125" y="256" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A3nQMff8ujwONAHbKA7q-17" value="X&lt;sub&gt;i+1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="336" y="254" width="50" height="30" as="geometry" />

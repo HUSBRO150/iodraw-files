@@ -193,8 +193,11 @@
         <mxCell id="rUDohHLbQepnZ_nuTRbK-13" value="X&lt;sub&gt;4&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="310" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rUDohHLbQepnZ_nuTRbK-14" value="X&lt;sub&gt;4&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="320" width="40" height="30" as="geometry" />
+        <mxCell id="rUDohHLbQepnZ_nuTRbK-14" value="X&lt;sub&gt;5&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="310" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rUDohHLbQepnZ_nuTRbK-15" value="X&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="320" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

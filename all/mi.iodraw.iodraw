@@ -58,10 +58,9 @@
         <mxCell id="xCqoYccyXAn2fFv5NbG3-15" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="330" as="sourcePoint" />
-            <mxPoint x="490" y="350" as="targetPoint" />
+            <mxPoint x="510" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="500" y="330" />
-              <mxPoint x="500" y="350" />
+              <mxPoint x="510" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>

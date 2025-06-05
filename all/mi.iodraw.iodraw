@@ -264,6 +264,9 @@
         <mxCell id="fzBmB18DMcmk8DF_21Lt-7" value="第i轮迭代&lt;div&gt;（i=0, 1,&amp;nbsp; ..., 3）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="235" y="483" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fzBmB18DMcmk8DF_21Lt-8" value="rk&lt;sub&gt;i&lt;/sub&gt;=K&lt;sub&gt;i+4&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="548" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

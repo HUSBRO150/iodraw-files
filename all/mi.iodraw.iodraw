@@ -6,8 +6,8 @@
         <mxCell id="1" parent="0" />
         <mxCell id="xCqoYccyXAn2fFv5NbG3-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="160" as="sourcePoint" />
-            <mxPoint x="400" y="200" as="targetPoint" />
+            <mxPoint x="399.8" y="153" as="sourcePoint" />
+            <mxPoint x="399.8" y="193" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xCqoYccyXAn2fFv5NbG3-2" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: Consolas, Courier, monospace; font-size: 14px; text-align: left; background-color: rgb(245, 245, 245);&quot;&gt;\( \oplus \)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

@@ -170,8 +170,8 @@
             <mxPoint x="400" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xCqoYccyXAn2fFv5NbG3-35" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="375" y="468" width="50" height="30" as="geometry" />
+        <mxCell id="xCqoYccyXAn2fFv5NbG3-35" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: Consolas, Courier, monospace; font-size: 14px; text-align: left; text-wrap: wrap; background-color: rgb(245, 245, 245);&quot;&gt;\( \oplus \)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="468" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

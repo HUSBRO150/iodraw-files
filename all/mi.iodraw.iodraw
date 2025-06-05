@@ -267,8 +267,8 @@
         <mxCell id="fzBmB18DMcmk8DF_21Lt-8" value="rk&lt;sub&gt;i&lt;/sub&gt;=K&lt;sub&gt;i+4&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="395" y="545" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fzBmB18DMcmk8DF_21Lt-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="fzBmB18DMcmk8DF_21Lt-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

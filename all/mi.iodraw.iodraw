@@ -38,7 +38,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xCqoYccyXAn2fFv5NbG3-8" value="&lt;span style=&quot;color: rgb(68, 68, 68); font-family: Consolas, Courier, monospace; font-size: 14px; text-align: left; background-color: rgb(245, 245, 245);&quot;&gt;\( \oplus \)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="370" y="253" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xCqoYccyXAn2fFv5NbG3-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="260" as="sourcePoint" />
+            <mxPoint x="420" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

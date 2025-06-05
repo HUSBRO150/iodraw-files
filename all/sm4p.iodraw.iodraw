@@ -235,11 +235,11 @@
         <mxCell id="rUDohHLbQepnZ_nuTRbK-28" value="第1轮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="55" y="160" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rUDohHLbQepnZ_nuTRbK-29" value="第一轮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="rUDohHLbQepnZ_nuTRbK-29" value="第32轮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="446" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rUDohHLbQepnZ_nuTRbK-30" value="第一轮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="260" width="60" height="30" as="geometry" />
+        <mxCell id="rUDohHLbQepnZ_nuTRbK-30" value="第2轮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="260" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

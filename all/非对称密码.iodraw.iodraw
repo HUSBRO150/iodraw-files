@@ -36,7 +36,7 @@
         <mxCell id="dF17asJOFgWwn4ZtD91Y-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dF17asJOFgWwn4ZtD91Y-12" target="dF17asJOFgWwn4ZtD91Y-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dF17asJOFgWwn4ZtD91Y-12" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;公钥&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dF17asJOFgWwn4ZtD91Y-12" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;密钥源&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;接收到的密钥K&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="222" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dF17asJOFgWwn4ZtD91Y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="dF17asJOFgWwn4ZtD91Y-14" target="dF17asJOFgWwn4ZtD91Y-5" edge="1">
